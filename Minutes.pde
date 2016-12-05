@@ -41,10 +41,10 @@ class Minutes {
       }
 
       if (i%4 == 3) {
-        lineXa [i]  =  int(random(aX, dX));
+        lineXa [i]  = int(random(aX, dX));
         lineYa [i]  = int(random(aY, dY)); 
         lineXb [i]  = int(random(aX, bX));
-        lineYb [i]  =  int(random(aY, bY));
+        lineYb [i]  = int(random(aY, bY));
       }
     }
   }
