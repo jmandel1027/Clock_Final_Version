@@ -1,13 +1,9 @@
 class Minutes {
   
-  int aX = 20;
-  int aY = 20;
-  int bX = 380;
-  int bY = 20;
-  int cX = 380;
-  int cY = 380;
-  int dX = 20;
-  int dY = 380;
+  int aX = 20, aY = 20;
+  int bX = 380, bY = 20;
+  int cX = 380, cY = 380;
+  int dX = 20, dY = 380;
 
   int [] lineXa = new int [60]; 
   int [] lineYa = new int [60]; 
